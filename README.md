@@ -4,10 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nassau%20Shipping%20Analysis&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=End-to-End%20Data%20Analysis%20%7C%20Streamlit%20Dashboard&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing Badge -->
-<a href="https://dataanalysisproject-mcqeuuegp5p96cstmeaqds.streamlit.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚢+Nassau+Shipping+Data+Analysis;📊+Interactive+Streamlit+Dashboard;🐍+Python+%7C+Pandas+%7C+Plotly+%7C+Seaborn;🔍+EDA+%7C+KPIs+%7C+Business+Insights" alt="Typing SVG" />
-</a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚢+Nassau+Shipping+Data+Analysis;📊+Interactive+Streamlit+Dashboard;🐍+Python+%7C+Pandas+%7C+Plotly+%7C+Seaborn;🔍+EDA+%7C+KPIs+%7C+Business+Insights)](https://dataanalysisproject-mcqeuuegp5p96cstmeaqds.streamlit.app/)
 <br/><br/>
 
 <!-- Badges -->
