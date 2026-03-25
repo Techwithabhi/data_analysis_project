@@ -39,7 +39,7 @@ if _DATA_DIR is None:
     )
     st.stop()
 
-def data_path(filename: str) -> str:
+def data_path(filename):
     return os.path.join(_DATA_DIR, filename)
 
 # ─────────────────────────────────────────────────────────────
