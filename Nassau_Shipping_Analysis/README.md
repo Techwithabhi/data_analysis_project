@@ -165,7 +165,7 @@ logistics_kpi_dataset.csv
 
 ## 👤 Author
 
-**Abhishek** — Entry-Level Data Analyst
+**Abhi Sarkar** — Entry-Level Data Analyst
 🔗 [github.com/Techwithabhi](https://github.com/Techwithabhi)
 
 ---
